@@ -1,0 +1,24 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header {
+    display : flex;
+    justify-content : center ;
+}
+
+.grid {
+    display : flex;
+    flex-direction: row;
+    justify-content :first baseline;
+    
+
+}
+
+
+
